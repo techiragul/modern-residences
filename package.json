@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "engines": {
-    "node": "18.x"
+    "node": "20.0.0"
   },
   "dependencies": {
     "@tailwindcss/forms": "^0.5.10",
